@@ -1,1 +1,1 @@
-Arquivo criado para exemplo de integração com o Jira CLoud
+Arquivo criado para exemplo de integração com o Jira CLoud.
